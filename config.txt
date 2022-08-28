@@ -21,7 +21,7 @@
 # 生日2
 "birthday2": {"name": "陈哥", "birthday": "r2001-04-22"},
 # 在一起的日子，格式同上
-"love_date": "2022-05-09",
+"love_date": "2017-05-09",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "4uofgyuozcljkvgwdfa450czfyv8j1z0",
 # 金句英文
